@@ -3,5 +3,5 @@ Solution to an assignment in [@TheOdinProject's](https://github.com/TheOdinProje
 
 [Link to assignment](https://www.theodinproject.com/lessons/javascript-binary-search-trees)
 
-## linkedList.js
-Demonstrates the implementation of a binary search tree using ES6 classes.
+## bst.js
+Demonstrates the implementation of a binary search tree program using ES6 classes.
